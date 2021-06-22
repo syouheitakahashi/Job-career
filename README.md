@@ -87,4 +87,3 @@ URL：https://udemy20210512.com/
 ####使用したAWSサービス
 EC2 | IAM | VPC | S3 | Route53 | CloudFront | ELB | ACM | RDS | CloudWatch | SNS | CloudFormation
 
-
